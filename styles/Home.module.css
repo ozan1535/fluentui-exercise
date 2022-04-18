@@ -1,0 +1,23 @@
+.main {
+  min-height: 100vh;
+  height: auto;
+  width: 100%;
+  padding: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.information {
+  min-height: 80px;
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(98, 142, 150);
+  font-size: 20px;
+  margin-bottom: 20px;
+}
