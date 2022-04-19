@@ -57,6 +57,7 @@ const Header: React.FunctionComponent = () => {
         <Link href="/"><PrimaryButton text="Home" /></Link>
         <Link href="/about"><PrimaryButton  text="About" /></Link>
         <Link href="/contact"><PrimaryButton text="Contact" /></Link>
+        <Link href="/user"><PrimaryButton text="User" /></Link>
       </div>
     </ThemeProvider>
   );
